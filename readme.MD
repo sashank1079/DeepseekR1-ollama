@@ -60,14 +60,6 @@ To set up the Travel Advisor application, follow these steps:
 - The application uses the `deepseek-r1:1.5b` model by default.
 - You can modify the model and other settings in the sidebar.
 
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ## Acknowledgments
 
 - Built with [Streamlit](https://streamlit.io/)
